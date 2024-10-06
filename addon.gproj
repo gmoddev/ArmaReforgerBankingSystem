@@ -1,0 +1,8 @@
+GameProject {
+ ID "Bank"
+ GUID "62204CDDE64C3812"
+ TITLE "Bank"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
